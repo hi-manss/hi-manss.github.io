@@ -39,9 +39,13 @@
 ![AWS](https://img.shields.io/badge/AWS-000000?style=flat-square&logo=amazon-aws)
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
 <div>
-  <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+ 
+      
+<!--      <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
       <img align="right" width=420 height="auto" src="https://github-readme-stats.vercel.app/api?username=hi-manss&show_icons=true&theme=dark&border_color=61dafb&hide_border=true&include_all_commits=true" />
     </a>
+
+    -->
 </div>
     
 <div align="left">
